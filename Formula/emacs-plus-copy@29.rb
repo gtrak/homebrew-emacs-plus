@@ -1,6 +1,6 @@
 require_relative "../Library/EmacsBase"
 
-class EmacsPlusAT29 < EmacsBase
+class EmacsPlusCopyAT29 < EmacsBase
   init 29
   url "https://ftp.gnu.org/gnu/emacs/emacs-29.3.tar.xz"
   mirror "https://ftpmirror.gnu.org/emacs/emacs-29.3.tar.xz"
